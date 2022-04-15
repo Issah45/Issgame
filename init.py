@@ -1,4 +1,4 @@
 import pygame
 
-def setup():
+def Setup():
 	pygame.init()
